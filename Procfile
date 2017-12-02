@@ -1,1 +1,1 @@
-worker: node modmailconfig.js
+worker: node src/index.js
